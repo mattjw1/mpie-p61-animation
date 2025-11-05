@@ -140,7 +140,7 @@ To create your walk cycle, see if you can animate a character through some of th
 Some tips when trying to do this:
 
 -	Don’t try and create a seamless loop this time. Just try and create a single step animation that looks good. Once you’ve got one step, them you can try another.
--	It can help to use one of the side views in Blender when doing this task. Recall, you can switch between views using the axis in the top left of the viewport of numpad keys.
+-	It can help to use one of the side views in Blender when doing this task. Recall, you can switch between views using the axis in the top left of the viewport or numpad keys.
 -	You can import the image (also in resources) and make in the background of your view to trace over using “Shift + A> Image> Refrence”.
 -	Animate your character such that they remain in the same position throughout (i.e. they don’t actually walk anywhere). Walking animations that do include character movement (called progressive) are also common to create, but for now let’s keep things simple. 
 
